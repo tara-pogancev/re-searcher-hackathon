@@ -13,6 +13,8 @@
 
 RE:searcher is an AI-powered app designed to assist academics by enabling them to interact with their documents and generate mind maps seamlessly. Developed during the SAIS 24-hour hackathon, it won first place for its innovative approach to academic research.
 
+This is the original repository, unchanged, as it was submitted on the competition. We continued developing the application; more about you can see here: [https://re-searcher.web.app/](https://re-searcher.web.app/)
+
 ### Tool Features
 - Question formulation
 - Creating summarized content overviews
